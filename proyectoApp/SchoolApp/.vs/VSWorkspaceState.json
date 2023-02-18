@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolApp.Web",
+    "\\SchoolApp.Web\\SchoolApp.Web",
+    "\\SchoolApp.Web\\SchoolApp.Web\\Controllers",
+    "\\SchoolApp.Web\\SchoolApp.Web\\Models"
+  ],
+  "SelectedNode": "\\SchoolApp.Web\\SchoolApp.Web\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
